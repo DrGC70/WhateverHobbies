@@ -1,25 +1,25 @@
-The location of the life project: https://whatever-hobbies.vercel.app/sign-up.
+The location of a life project: https://whatever-hobbies.vercel.app/sign-up.
 
 
 
 ![image](https://github.com/DrGC70/WhateverHobbies/assets/123336389/cf129cb7-1f75-4b19-9a2c-9effa24749b2)
 
 
-Introduction
+# **Introduction**
 
 Explore social media with this user-friendly platform that has a nice look and lots of features. Easily create and explore posts, and enjoy a strong authentication system and quick data fetching using React Query for a smooth user experience.
 
-Tech Stack
+# **Tech Stack**
 
-    React.js
-    Appwrite
-    React Query
-    TypeScript
-    Shadcn
-    Tailwind CSS
+    * React.js
+    * Appwrite
+    * React Query
+    * TypeScript
+    * Shadcn
+    * Tailwind CSS
 
 
-Features
+# **Features**
 
 👉 Authentication System: A robust authentication system ensuring security and user privacy
 
