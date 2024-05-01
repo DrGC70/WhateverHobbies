@@ -65,9 +65,9 @@ git clone https://github.com/DrGC70/WhateverHobbies.git
 
 Install the project dependencies using npm:
 
-<
-npm install
->
+
+``npm install
+
 
 **Set Up Environment Variables**
 
